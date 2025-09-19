@@ -40,7 +40,7 @@ export default function Home() {
               className="font-bold hover:underline"
               rel="noreferrer"
             >
-              Supabase
+              Supabase Hello World
             </a>
           </p>
           <ThemeSwitcher />
